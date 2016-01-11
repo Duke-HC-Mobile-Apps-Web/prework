@@ -31,7 +31,7 @@ https://github.com/learn-co-students/git-version-control-101-001-prework-web/blo
 
 ###JavaScript
 
-Take the [Codecademy JavaScript course](https://www.codecademy.com/learn/javascript).  You may skip any concepts you are familiar with.  If this is taking you more than several hours, it's not critical that you finish by the first week of class.
+Take the [Codecademy JavaScript course](https://www.codecademy.com/learn/javascript).  You may skip any concepts you are familiar with.  If this is taking you more than a few hours, it's not critical that you finish by the first week of class.
 
 ###Additional
 Feeling bored? Dive into 'The Basics' section of [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/).  This is also available as an iBook with the same title.
