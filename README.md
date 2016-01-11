@@ -1,7 +1,7 @@
 # Prework
 
 ##Overview
-This work should not take more than 2 hours, the goal is to make sure everyone is comfortable with concepts such as git and bash before the first day of class.  **Please complete by 1/20.**
+The goal with this prework is to make sure everyone is comfortable with concepts such as git and bash before the first day of class.  **Please complete by 1/20.**
 
 ###No Mac?
 
@@ -28,6 +28,10 @@ https://github.com/learn-co-students/git-version-control-101-001-prework-web/blo
 
 **(~40 min)** - Learn some basic git commands by completing the intro to git assignment found here:
 <https://github.com/Duke-HC-Mobile-Apps-Web/Git-Intro/blob/master/README.md>
+
+###JavaScript
+
+Take the [Codecademy JavaScript course](https://www.codecademy.com/learn/javascript).  You may skip any concepts you are familiar with.  If this is taking you more than several hours, it's not critical to finish by the first week of class.
 
 ###Additional
 Feeling bored? Dive into 'The Basics' section of [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/).  This is also available as an iBook with the same title.
