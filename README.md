@@ -29,5 +29,5 @@ https://github.com/learn-co-students/git-version-control-101-001-prework-web/blo
 **(~40 min)** - Learn some basic git commands by completing the intro to git assignment found here:
 <https://github.com/Duke-HC-Mobile-Apps-Web/Git-Intro/blob/master/README.md>
 
-
-
+###Additional
+Feeling bored? Dive into 'The Basics' section of [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/).  This is also available as an iBook with the same title.
