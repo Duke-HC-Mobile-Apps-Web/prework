@@ -5,7 +5,7 @@ The goal with this prework is to make sure everyone is comfortable with concepts
 
 ###No Mac?
 
-All of this may be done without a Mac using a Linux installation.  A good option is installing Ubuntu via virtualbox (<http://virtualbox.org>).  Just click the new button and follow prompts for creating an Ubuntu virtual machine.  
+All of this may be done without a Mac using a Linux installation.  A good option is installing Ubuntu via virtualbox (<http://virtualbox.org>).  Go [here](https://piazza.com/class/ijagjv2ylhntu?cid=10) to get a configured VM.  
 
 ##Work
 
